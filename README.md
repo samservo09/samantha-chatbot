@@ -1,0 +1,1 @@
+A chatbot of me for visitors of my website portfolio. It is still in progress, and the goal is to entertain basic questions about me and my website portfolio.
